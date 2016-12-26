@@ -1,29 +1,28 @@
 # Question
 ## Fork me !
-- Par qui, quand, pourquoi et où a été inventé Internet ?
+1- Par qui, quand, pourquoi et où a été inventé Internet ?
 	Joseph Carl Robnett Licklider, en 1962 , pour creer un réseau résistant au attaques nuc pour la Defense Advanced Research Projects Agency
 	pour creer un réseau résistant au attaques nucl (wikipédia).
-- Quelle est la différence entre le Web et Internet ?
+2- Quelle est la différence entre le Web et Internet ?
 	Internet est un réseau par lequel transitent des données, le web correspond à une des applications utilisant ce réseau, la principale. (service-public.fr)
-- Qu’est-ce que cela :
-- 8.8.8.8
- : l'adresse DNS de google (Le Domain Name System est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom) (wikipédia)
+3- Qu’est-ce que cela :
+	- 8.8.8.8 : l'adresse DNS de google (Le Domain Name System est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom) (wikipédia)
 
-- 192.168.0.1 : d'aprés "ip19216801.org/" c'est une adresse ip pour ce connecter a son routeur.
+	- 192.168.0.1 : d'aprés "ip19216801.org/" c'est une adresse ip pour ce connecter a son routeur.
 
-- 255.255.255.0 : c'est un masque de sous-réseau (wikipédia)
+	- 255.255.255.0 : c'est un masque de sous-réseau (wikipédia)
 
-- 127.0.0.1 : adresse de local-host ()
+	- 127.0.0.1 : adresse de local-host ()
 
-- Que sont le copyright et le copyleft ?
+4- Que sont le copyright et le copyleft ?
 	right : l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale
 	left : l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur
-- Que sont les Creatives Commons ?
+5- Que sont les Creatives Commons ?
 	les creatives commons facilitent la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique. (http://creativecommons.fr/)
-- Qui est Grace Hopper ?
-	
-- Qu'est-ce que Qwant ?
-
+6- Qui est Grace Hopper ?
+	Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. (wikipedia)
+7- Qu'est-ce que Qwant ?
+	Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats. (wikipédia)
 - Qui est Steve Wozniak ?
 
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
