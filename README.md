@@ -40,9 +40,9 @@
 15- Qu’est-ce qu’une attaque “brute force” ?
 	spamer plein d'essai de mot de passes pour tenter d'acceder a un compte ou un contenu
 16- Qui est Linus Torvalds ?
-
-- Quels sont ses plus grands développements ?
-
+	connu pour avoir créer le nouyau linux.
+17- Quels sont ses plus grands développements ?
+	
 - Combien coûte un nom de domaine ?
 
 - Quels sont les différents services d'emailing disponibles ?
