@@ -26,8 +26,8 @@
 8- Qui est Steve Wozniak ?
 	 informaticien, professeur d'informatique et électronicien américain. Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne
 9- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
-
-- Qu’est-ce que le projet GNU ?
+	C'est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement. (wikipédia)
+10- Qu’est-ce que le projet GNU ?
 
 - Quelles sont les différences entre le Http et le Https ?
 
