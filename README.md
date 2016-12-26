@@ -37,9 +37,9 @@
 	la commande "!bang" permet de rechercher via un autre moteur de recherche depuis duckduckgo la commande « !g » lance la recherche sur Google
 14- Qui est Marissa Mayer ?
 	Elle occupe le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation. (wikipédia)
-- Qu’est-ce qu’une attaque “brute force” ?
-
-- Qui est Linus Torvalds ?
+15- Qu’est-ce qu’une attaque “brute force” ?
+	spamer plein d'essai de mot de passes pour tenter d'acceder a un compte ou un contenu
+16- Qui est Linus Torvalds ?
 
 - Quels sont ses plus grands développements ?
 
