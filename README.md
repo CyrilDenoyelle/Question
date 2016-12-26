@@ -1,14 +1,11 @@
 # Question
 ## Fork me !
 - Par qui, quand, pourquoi et où a été inventé Internet ?
-
 	Joseph Carl Robnett Licklider, en 1962 , pour creer un réseau résistant au attaques nuc pour la Defense Advanced Research Projects Agency
 	pour creer un réseau résistant au attaques nucl (wikipédia).
 - Quelle est la différence entre le Web et Internet ?
-
 	Internet est un réseau par lequel transitent des données, le web correspond à une des applications utilisant ce réseau, la principale. (service-public.fr)
 - Qu’est-ce que cela :
-
 - 8.8.8.8
  : l'adresse DNS de google (Le Domain Name System est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom) (wikipédia)
 
@@ -21,11 +18,10 @@
 - Que sont le copyright et le copyleft ?
 	right : l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale
 	left : l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur
-
 - Que sont les Creatives Commons ?
-	
+	les creatives commons facilitent la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique. (http://creativecommons.fr/)
 - Qui est Grace Hopper ?
-
+	
 - Qu'est-ce que Qwant ?
 
 - Qui est Steve Wozniak ?
