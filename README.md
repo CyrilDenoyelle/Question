@@ -11,7 +11,8 @@
 
 - 8.8.8.8
  : l'adresse DNS de google (Le Domain Name System est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom) (wikipédia)
-- 192.168.0.1 : 
+
+- 192.168.0.1 : d'aprés https://ip19216801.org/ c'est une adresse ip pour ce connecter a son routeur.
 
 - 255.255.255.0 :
 
