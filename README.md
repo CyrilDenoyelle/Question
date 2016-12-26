@@ -42,7 +42,9 @@
 16- Qui est Linus Torvalds ?
 	connu pour avoir créer le nouyau linux.
 17- Quels sont ses plus grands développements ?
-	
+	-Debian est une organisation communautaire et démocratique, dont le but est le développement de systèmes d'exploitation basés exclusivement sur des logiciels libres.
+	-Red Hat Enterprise Linux est une distribution Linux produite par Red Hat et orientée vers le marché commercial et les serveurs d'entreprise.
+	-Slackware est une distribution GNU/Linux qui, à la différence d'autres distributions populaires, a longtemps été maintenue par une seule personne. Elle est connue pour suivre au mieux la « philosophie Unix » et rechercher la stabilité des applications.
 - Combien coûte un nom de domaine ?
 
 - Quels sont les différents services d'emailing disponibles ?
