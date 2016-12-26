@@ -35,8 +35,8 @@
 	il a réalisés les premiers développements du projet GNU et a populariser le therme copyleft (wikipédia)
 13- Comment fonctionnent les bang de Duck Duck Go ?
 	la commande "!bang" permet de rechercher via un autre moteur de recherche depuis duckduckgo la commande « !g » lance la recherche sur Google
-- Qui est Marissa Mayer ?
-
+14- Qui est Marissa Mayer ?
+	Elle occupe le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation. (wikipédia)
 - Qu’est-ce qu’une attaque “brute force” ?
 
 - Qui est Linus Torvalds ?
