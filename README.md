@@ -45,10 +45,10 @@
 	-Debian est une organisation communautaire et démocratique, dont le but est le développement de systèmes d'exploitation basés exclusivement sur des logiciels libres.
 	-Red Hat Enterprise Linux est une distribution Linux produite par Red Hat et orientée vers le marché commercial et les serveurs d'entreprise.
 	-Slackware est une distribution GNU/Linux qui, à la différence d'autres distributions populaires, a longtemps été maintenue par une seule personne. Elle est connue pour suivre au mieux la « philosophie Unix » et rechercher la stabilité des applications.
-- Combien coûte un nom de domaine ?
-
-- Quels sont les différents services d'emailing disponibles ?
-
+18- Combien coûte un nom de domaine ?
+	entre 6 et 15euro, plus cout par mois environ  ()
+19- Quels sont les différents services d'emailing disponibles ?
+	
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
 - Quelle est votre adress IP actuelle ?
