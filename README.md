@@ -23,9 +23,9 @@
 	Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. (wikipedia)
 7- Qu'est-ce que Qwant ?
 	Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats. (wikipédia)
-- Qui est Steve Wozniak ?
-
-- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
+8- Qui est Steve Wozniak ?
+	 informaticien, professeur d'informatique et électronicien américain. Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne
+9- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 
 - Qu’est-ce que le projet GNU ?
 
