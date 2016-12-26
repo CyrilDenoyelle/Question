@@ -19,9 +19,11 @@
 - 127.0.0.1 : adresse de local-host ()
 
 - Que sont le copyright et le copyleft ?
+	right : l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale
+	left : l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur
 
 - Que sont les Creatives Commons ?
-
+	
 - Qui est Grace Hopper ?
 
 - Qu'est-ce que Qwant ?
