@@ -31,9 +31,9 @@
 	c'est un ensemble de sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, avec pour stratégie, l’utilisation de l’existant. (wikipédia)
 11- Quelles sont les différences entre le Http et le Https ?
 	Le S  est synonyme de  Secure (sécurité).  (http://www.africanbusinessjournal.info/index.php?option=com_content&view=article&id=936:saviez-vous-quelle-est-la-difference-entre-http-et-https&catid=37:innovations&Itemid=397)
-- Qui est Richard Stallman ?
-	
-- Comment fonctionnent les bang de Duck Duck Go ?
+12- Qui est Richard Stallman ?
+	il a réalisés les premiers développements du projet GNU (wikipédia)
+13- Comment fonctionnent les bang de Duck Duck Go ?
 
 - Qui est Marissa Mayer ?
 
