@@ -26,9 +26,9 @@
 8- Qui est Steve Wozniak ?
 	 informaticien, professeur d'informatique et électronicien américain. Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne
 9- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
-	C'est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement. (wikipédia)
+	C'est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement. Aaron Swartz est un informaticien américain, écrivain, meneur politique et militant de l'Internet. (wikipédia)
 10- Qu’est-ce que le projet GNU ?
-
+	c'est un ensemble de sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, avec pour stratégie, l’utilisation de l’existant.
 - Quelles sont les différences entre le Http et le Https ?
 
 - Qui est Richard Stallman ?
