@@ -32,9 +32,9 @@
 11- Quelles sont les différences entre le Http et le Https ?
 	Le S  est synonyme de  Secure (sécurité).  (http://www.africanbusinessjournal.info/index.php?option=com_content&view=article&id=936:saviez-vous-quelle-est-la-difference-entre-http-et-https&catid=37:innovations&Itemid=397)
 12- Qui est Richard Stallman ?
-	il a réalisés les premiers développements du projet GNU (wikipédia)
+	il a réalisés les premiers développements du projet GNU et a populariser le therme copyleft (wikipédia)
 13- Comment fonctionnent les bang de Duck Duck Go ?
-
+	la commande "!bang" permet de rechercher via un autre moteur de recherche depuis duckduckgo la commande « !g » lance la recherche sur Google
 - Qui est Marissa Mayer ?
 
 - Qu’est-ce qu’une attaque “brute force” ?
