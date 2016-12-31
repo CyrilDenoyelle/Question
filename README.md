@@ -111,7 +111,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 33- Qu’est-ce que l’Open Source ?
 	les logiciels libre de droit
 
-- Qu’est-ce que le Bug Bounty ?
+34- Qu’est-ce que le Bug Bounty ?
+	c'est un programme qui permet de recevoir de la reconnaisance ou des recompences après avoir reporté des bugs, concernant des exploits ou des vulnerabilités. (wikipédia)
 
 - Qu'est-ce qu'une adresse IP v4 ?
 
