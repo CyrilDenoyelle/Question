@@ -80,8 +80,8 @@
 24- Les Hackers sont-ils des hors-la-loi ?
 	signifie pirate informatique, capable de pirater de voler des logiciel, donc oui (http://www.linternaute.com/dictionnaire/fr/definition/hacker/)
 
-- Qui a inventé la souris ?
-
+25- Qui a inventé la souris ?
+	Douglas Engelbart en 1963 (google)
 - Qui est Margaret Hamilton ?
 
 - Retrouvez le code source de la mission Apollo 11.
