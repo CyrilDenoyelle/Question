@@ -91,7 +91,8 @@
 27- Retrouvez le code source de la mission Apollo 11.
 	https://github.com/chrislgarry/Apollo-11 (www.nextinpact.com/news/100597-apollo-11-code-source-ordinateur-bord-disponible-sur-github.htm)
 
-- Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+28- Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+	Langage = 100% assembly, environ 30 colaborateurs, 2ans et demi environ de mission (git hub)
 
 - Qu’est-ce que Agile Manifesto ?
 
