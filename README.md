@@ -69,10 +69,10 @@
 19- Quels sont les différents services d'emailing disponibles ?
 	Les plateformes email marketing en selfservice, Les plateformes email marketing proposant un accompagnement et Les plateformes cross-canal et/ou de gestion de l’automatisation.
 
-- Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
-
-- Quelle est votre adress IP actuelle ?
-
+20- Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+	
+21- Quelle est votre adress IP actuelle ?
+	109.214.148.58
 - Et celle de votre smartphone ?
 
 - Qu’est-ce que le développement en cycle V ?
