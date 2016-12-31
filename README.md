@@ -73,8 +73,8 @@
 	
 21- Quelle est votre adress IP actuelle ?
 	109.214.148.58
-- Et celle de votre smartphone ?
-
+22- Et celle de votre smartphone ?
+	(pas de smartphone)
 - Qu’est-ce que le développement en cycle V ?
 
 - Les Hackers sont-ils des hors-la-loi ?
