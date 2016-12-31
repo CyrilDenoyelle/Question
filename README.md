@@ -100,7 +100,8 @@ Des logiciels opérationnels plus qu’une documentation exhaustive
 La collaboration avec les clients plus que la négociation contractuelle
 L’adaptation au changement plus que le suivi d’un plan			(http://agilemanifesto.org/iso/fr/manifesto.html)
 
-- Trouvez un screenshot de la première version de Facebook
+30- Trouvez un screenshot de la première version de Facebook
+	https://blog.shareaholic.com/happy-facebook-ipo-day-10-screenshots-of-the-old-facebook-designs/
 
 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 
