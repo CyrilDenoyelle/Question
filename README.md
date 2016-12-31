@@ -73,8 +73,10 @@
 	
 21- Quelle est votre adress IP actuelle ?
 	109.214.148.58
+
 22- Et celle de votre smartphone ?
 	(pas de smartphone)
+
 23- Qu’est-ce que le développement en cycle V ?
 
 24- Les Hackers sont-ils des hors-la-loi ?
@@ -82,7 +84,9 @@
 
 25- Qui a inventé la souris ?
 	Douglas Engelbart en 1963 (google)
-- Qui est Margaret Hamilton ?
+
+26- Qui est Margaret Hamilton ?
+	Informaticienne et mathématicienne, était directrice du département software engineering du MIT qui a conçut le système embarqué du programme Apollo. (wikipédia)
 
 - Retrouvez le code source de la mission Apollo 11.
 
