@@ -1,10 +1,13 @@
 # Question
 ## Fork me !
+
 1- Par qui, quand, pourquoi et où a été inventé Internet ?
 	Joseph Carl Robnett Licklider, en 1962 , pour creer un réseau résistant au attaques nuc pour la Defense Advanced Research Projects Agency
 	pour creer un réseau résistant au attaques nucl (wikipédia).
+
 2- Quelle est la différence entre le Web et Internet ?
 	Internet est un réseau par lequel transitent des données, le web correspond à une des applications utilisant ce réseau, la principale. (service-public.fr)
+
 3- Qu’est-ce que cela :
 	- 8.8.8.8 : l'adresse DNS de google (Le Domain Name System est un service permettant de traduire un nom de domaine en informations de plusieurs types qui y sont associées, notamment en adresses IP de la machine portant ce nom) (wikipédia)
 
@@ -14,41 +17,58 @@
 
 	- 127.0.0.1 : adresse de local-host ()
 
+
 4- Que sont le copyright et le copyleft ?
 	right : l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale
 	left : l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur
+
 5- Que sont les Creatives Commons ?
 	les creatives commons facilitent la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique. (http://creativecommons.fr/)
+
 6- Qui est Grace Hopper ?
 	Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. (wikipedia)
+
 7- Qu'est-ce que Qwant ?
 	Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats. (wikipédia)
+
 8- Qui est Steve Wozniak ?
 	 informaticien, professeur d'informatique et électronicien américain. Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne
+
 9- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 	C'est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement. Aaron Swartz est un informaticien américain, écrivain, meneur politique et militant de l'Internet. (wikipédia)
+
 10- Qu’est-ce que le projet GNU ?
 	c'est un ensemble de sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, avec pour stratégie, l’utilisation de l’existant. (wikipédia)
+
 11- Quelles sont les différences entre le Http et le Https ?
 	Le S  est synonyme de  Secure (sécurité).  (http://www.africanbusinessjournal.info/index.php?option=com_content&view=article&id=936:saviez-vous-quelle-est-la-difference-entre-http-et-https&catid=37:innovations&Itemid=397)
+
 12- Qui est Richard Stallman ?
 	il a réalisés les premiers développements du projet GNU et a populariser le therme copyleft (wikipédia)
+
 13- Comment fonctionnent les bang de Duck Duck Go ?
 	la commande "!bang" permet de rechercher via un autre moteur de recherche depuis duckduckgo la commande « !g » lance la recherche sur Google
+
 14- Qui est Marissa Mayer ?
 	Elle occupe le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation. (wikipédia)
+
 15- Qu’est-ce qu’une attaque “brute force” ?
 	spamer plein d'essai de mot de passes pour tenter d'acceder a un compte ou un contenu
+
 16- Qui est Linus Torvalds ?
 	connu pour avoir créer le nouyau linux.
+
 17- Quels sont ses plus grands développements ?
 	-Debian est une organisation communautaire et démocratique, dont le but est le développement de systèmes d'exploitation basés exclusivement sur des logiciels libres.
 	-Red Hat Enterprise Linux est une distribution Linux produite par Red Hat et orientée vers le marché commercial et les serveurs d'entreprise.
-	-Slackware est une distribution GNU/Linux qui, à la différence d'autres distributions populaires, a longtemps été maintenue par une seule personne. Elle est connue pour suivre au mieux la « philosophie Unix » et rechercher la stabilité des applications.
+	-Slackware est une distribution GNU/Linux qui, à la différence d'autres distributions populaires, a longtemps été maintenue par une seule personne. Elle est connue pour suivre au mieux la « philosophie 		Unix » et rechercher la stabilité des applications.
+
 18- Combien coûte un nom de domaine ?
 	entre 6 et 15euro, plus cout par mois environ  ()
+
 19- Quels sont les différents services d'emailing disponibles ?
-	
+	Les plateformes email marketing en selfservice, Les plateformes email marketing proposant un accompagnement et Les plateformes cross-canal et/ou de gestion de l’automatisation.
+
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
 - Quelle est votre adress IP actuelle ?
