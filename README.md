@@ -108,7 +108,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 32- Qu'est-ce que le load balancing ?
 	Repartition des charges, un ensemble de principes qui permetent de distribuer une charge sur differents ordinateurs d'un même groupe. (promosoft)
 
-- Qu’est-ce que l’Open Source ?
+33- Qu’est-ce que l’Open Source ?
+	les logiciels libre de droit
 
 - Qu’est-ce que le Bug Bounty ?
 
