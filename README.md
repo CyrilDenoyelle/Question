@@ -64,10 +64,10 @@
 	-Slackware est une distribution GNU/Linux qui, à la différence d'autres distributions populaires, a longtemps été maintenue par une seule personne. Elle est connue pour suivre au mieux la « philosophie 		Unix » et rechercher la stabilité des applications.
 
 18- Combien coûte un nom de domaine ?
-	entre 6 et 15euro, plus cout par mois environ  ()
+	entre 6 et 15euro, plus cout par mois
 
 19- Quels sont les différents services d'emailing disponibles ?
-	Les plateformes email marketing en selfservice, Les plateformes email marketing proposant un accompagnement et Les plateformes cross-canal et/ou de gestion de l’automatisation.
+	Les plateformes email marketing en selfservice, Les plateformes email marketing proposant un accompagnement et Les plateformes cross-canal et/ou de gestion de l’automatisation. (http://www.badsender.com/2013/05/27/les-differents-types-de-plateformes-emailing/)
 
 20- Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 	
@@ -75,10 +75,10 @@
 	109.214.148.58
 22- Et celle de votre smartphone ?
 	(pas de smartphone)
-- Qu’est-ce que le développement en cycle V ?
+23- Qu’est-ce que le développement en cycle V ?
 
-- Les Hackers sont-ils des hors-la-loi ?
-
+24- Les Hackers sont-ils des hors-la-loi ?
+	
 - Qui a inventé la souris ?
 
 - Qui est Margaret Hamilton ?
