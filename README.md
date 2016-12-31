@@ -104,9 +104,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	https://blog.shareaholic.com/happy-facebook-ipo-day-10-screenshots-of-the-old-facebook-designs/
 
 31- Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
-	http://img1.lesnumeriques.com/news/4/4881/servers-downtime-2007(1).jpg (lesnumerique.com)
 
-- Qu'est-ce que le load balancing ?
+32- Qu'est-ce que le load balancing ?
+	Repartition des charges, un ensemble de principes qui permetent de distribuer une charge sur differents ordinateurs d'un même groupe. (promosoft)
 
 - Qu’est-ce que l’Open Source ?
 
