@@ -103,7 +103,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 30- Trouvez un screenshot de la première version de Facebook
 	https://blog.shareaholic.com/happy-facebook-ipo-day-10-screenshots-of-the-old-facebook-designs/
 
-- Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+31- Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+	http://img1.lesnumeriques.com/news/4/4881/servers-downtime-2007(1).jpg (lesnumerique.com)
 
 - Qu'est-ce que le load balancing ?
 
