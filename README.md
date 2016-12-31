@@ -114,11 +114,13 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 34- Qu’est-ce que le Bug Bounty ?
 	c'est un programme qui permet de recevoir de la reconnaisance ou des recompences après avoir reporté des bugs, concernant des exploits ou des vulnerabilités. (wikipédia)
 
-- Qu'est-ce qu'une adresse IP v4 ?
+35- Qu'est-ce qu'une adresse IP v4 ?
+	C'est la première version d'Internet Protocol à avoir été largement déployée
 
 - Pourquoi parle-t-on aussi d'adresse IP v6 ?
 
 - Combien coûte un serveur pour héberger mon site perso ?
+
 - Qu’est-ce que le Cowboy coding ?
 
 - Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
@@ -126,6 +128,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 - Quelles sont les différences entre un software open-source et un software free ?
 
 - Trouvez trois entreprises qui développent des solutions Free & OpenSource
+
 - comment gagnent-elles de l’argent ?
 
 - Qui est Phil Zimmermann ?
@@ -137,6 +140,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 - Que sont les White Hat et les Black Hat ?
 
 - Qu’est-ce qu’une attaque DDoS ?
+
 - Quelles est l'adresse MAC de votre ordinateur ?
 
 - Et de votre smartphone ?
@@ -163,21 +167,20 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 - Qu'est-ce qu'une Cheatsheet ?
 
 - Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+
 - Qu’est-ce que les joies du code ?
 
 - Qui sont Larry Page et Sergey Brin ?
 
 - Convertissez en binaire
-
 - 2, 5, 12, 25, 512
 
 - Convertissez en hexadécimal
-
 - 2, 5, 12, 25, 512
 
 - Convertissez du binaire vers le système “classique” (base 10)
-
 - 100, 1011, 11111, 11110110101
+
 - Quelles sont les nouveautés apportées par le HTML 5 ?
 
 - Qu’est-ce que ECMAScript 2015 ?
