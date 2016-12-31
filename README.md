@@ -78,7 +78,8 @@
 23- Qu’est-ce que le développement en cycle V ?
 
 24- Les Hackers sont-ils des hors-la-loi ?
-	
+	signifie pirate informatique, capable de pirater de voler des logiciel, donc oui (http://www.linternaute.com/dictionnaire/fr/definition/hacker/)
+
 - Qui a inventé la souris ?
 
 - Qui est Margaret Hamilton ?
