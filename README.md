@@ -94,7 +94,11 @@
 28- Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
 	Langage = 100% assembly, environ 30 colaborateurs, 2ans et demi environ de mission (git hub)
 
-- Qu’est-ce que Agile Manifesto ?
+29- Qu’est-ce que Agile Manifesto ?
+	Les individus et leurs interactions plus que les processus et les outils
+Des logiciels opérationnels plus qu’une documentation exhaustive
+La collaboration avec les clients plus que la négociation contractuelle
+L’adaptation au changement plus que le suivi d’un plan			(http://agilemanifesto.org/iso/fr/manifesto.html)
 
 - Trouvez un screenshot de la première version de Facebook
 
