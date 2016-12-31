@@ -88,7 +88,8 @@
 26- Qui est Margaret Hamilton ?
 	Informaticienne et mathématicienne, était directrice du département software engineering du MIT qui a conçut le système embarqué du programme Apollo. (wikipédia)
 
-- Retrouvez le code source de la mission Apollo 11.
+27- Retrouvez le code source de la mission Apollo 11.
+	https://github.com/chrislgarry/Apollo-11 (www.nextinpact.com/news/100597-apollo-11-code-source-ordinateur-bord-disponible-sur-github.htm)
 
 - Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
 
