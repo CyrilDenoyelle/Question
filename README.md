@@ -149,7 +149,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 46- Que sont les White Hat et les Black Hat ?
 	les whites hats son des hackers éthiquement bon, a l'inverse les blacks hats sont des criminels du web (http://www.howtogeek.com/157460/hacker-hat-colors-explained-black-hats-white-hats-and-gray-hats/)
 
-- Qu’est-ce qu’une attaque DDoS ?
+47- Qu’est-ce qu’une attaque DDoS ?
+	Lors d'une attaque DDoS, une multitude de requêtes sont envoyées simultanément, depuis de multiples points du Net. L'intensité de ce "tir croisé" rend le service instable, ou pire, indisponible.
+	(https://www.ovh.com/fr/anti-ddos/principe-anti-ddos.xml)
 
 - Quelles est l'adresse MAC de votre ordinateur ?
 
