@@ -162,7 +162,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 50- Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 	https://www.indeed.fr/Emplois-Developpeur-Web-Junior
 
-- Qui est Tim Berners-Lee ?
+51- Qui est Tim Berners-Lee ?
+	il est le principal inventeur du World Wide Web en 1990. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé. (Wikipédia)
 
 - Comment sont reliés les différents réseaux d'internet ?
 
