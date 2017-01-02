@@ -202,9 +202,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 - 2, 5, 12, 25, 512
 	10, 101, 1100, 11001, 1000000000.
 
-- Convertissez en hexadécimal
+64- Convertissez en hexadécimal
 - 2, 5, 12, 25, 512
-
+	2, 5, C, 19, 200.
 
 - Convertissez du binaire vers le système “classique” (base 10)
 - 100, 1011, 11111, 11110110101
