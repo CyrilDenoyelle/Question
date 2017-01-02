@@ -226,7 +226,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	http://www.arca-computing.fr/application-mobile-natif-ou-cross-plateforme-app-ou-web-app-thats-the-question/
 
 71- Qu’est-ce que xkcd ?
-	
+	A webcomic of romance, sarcasm, math, and language. (http://xkcd.com/)
 
 72- Qu’est-ce que Mr Robot ?
 	
