@@ -195,7 +195,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 61- Qu’est-ce que les joies du code ?
 	c'est "linstant GIF des développeurs" ce site (http://lesjoiesducode.fr/)
 
-- Qui sont Larry Page et Sergey Brin ?
+62- Qui sont Larry Page et Sergey Brin ?
+	cofondateurs de la société Google.
 
 - Convertissez en binaire
 - 2, 5, 12, 25, 512
