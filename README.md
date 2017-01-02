@@ -189,7 +189,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 59- Qu'est-ce qu'une Cheatsheet ?
 	traduit feuille de triche, c'est une feuille de mémo pour plus ou moins tout faire en developement
 
-- Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+60- Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+	Chaque seconde ce sont près de 39.000 recherches qui sont faites sur le moteur de recherche Google soit au moins 60 foi plus par minutes (planetoscope.com)
 
 - Qu’est-ce que les joies du code ?
 
