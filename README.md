@@ -153,9 +153,11 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	Lors d'une attaque DDoS, une multitude de requêtes sont envoyées simultanément, depuis de multiples points du Net. L'intensité de ce "tir croisé" rend le service instable, ou pire, indisponible.
 	(https://www.ovh.com/fr/anti-ddos/principe-anti-ddos.xml)
 
-- Quelles est l'adresse MAC de votre ordinateur ?
+48- Quelles est l'adresse MAC de votre ordinateur ?
+	0E-84-DC-86-D6-78
 
-- Et de votre smartphone ?
+48- Et de votre smartphone ?
+	pas de smartphone
 
 - Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 
