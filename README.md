@@ -235,13 +235,24 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	"Les bonnes pratiques par et pour les pros du Web", c’est un réseau de 15 agences et 16 écoles (http://opquast.com/fr)
 
 74- Quelles sont les communautés de dev de St-Go?
-	
 
+	
 75- Quels sont les prochains événements tech sur St-Go?
 	
 
 76- Quelles sont les différences entre un client web et un serveur web ?
-	
+	Caractéristiques d'un processus serveur :
 
+		il attend une connexion entrante sur un ou plusieurs ports réseaux locaux  ;
+		à la connexion d'un client sur le port en écoute, il ouvre un socket local au système d'exploitation;
+		à la suite de la connexion, le processus serveur communique avec le client suivant le protocole prévu par la couche application du modèle OSI.
+		
+	Caractéristiques d'un processus client :
+
+		il établit la connexion au serveur à destination d'un ou plusieurs ports réseaux ;
+		lorsque la connexion est acceptée par le serveur, il communique comme le prévoit la couche applicative du modèle OSI.
+	
+	(wikipédia)
+	
 77- Donnez 3 exemples de chaque
 	
