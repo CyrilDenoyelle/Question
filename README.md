@@ -255,4 +255,6 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	(wikipédia)
 	
 77- Donnez 3 exemples de chaque
+
+PROUT!
 	
