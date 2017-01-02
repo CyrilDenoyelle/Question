@@ -131,11 +131,14 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 40- Quelles sont les différences entre un software open-source et un software free ?
 	 L'open source est une méthodologie de développement ; le logiciel libre est un mouvement de société. (https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 
-- Trouvez trois entreprises qui développent des solutions Free & OpenSource
+41- Trouvez trois entreprises qui développent des solutions Free & OpenSource
+	
 
-- comment gagnent-elles de l’argent ?
+42- comment gagnent-elles de l’argent ?
+	
 
-- Qui est Phil Zimmermann ?
+43- Qui est Phil Zimmermann ?
+	créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde. (wikipédia)
 
 - Qu’est-ce que le W3C ?
 
