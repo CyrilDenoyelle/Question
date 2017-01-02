@@ -146,7 +146,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 45- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 	Chaque minute, 400h de vidéos sont uploadées sur Youtube ! (http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques#gref)
 
-- Que sont les White Hat et les Black Hat ?
+46- Que sont les White Hat et les Black Hat ?
+	les whites hats son des hackers éthiquement bon, a l'inverse les blacks hats sont des criminels du web (http://www.howtogeek.com/157460/hacker-hat-colors-explained-black-hats-white-hats-and-gray-hats/)
 
 - Qu’est-ce qu’une attaque DDoS ?
 
