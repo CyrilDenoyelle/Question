@@ -209,11 +209,14 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 65- Convertissez du binaire vers le système “classique” (base 10)
 - 100, 1011, 11111, 11110110101
 	4, 11, 31, 1973.
-- Quelles sont les nouveautés apportées par le HTML 5 ?
 
-- Qu’est-ce que ECMAScript 2015 ?
+66- Quelles sont les nouveautés apportées par le HTML 5 ?
+	
 
-- Quelles nouveautés par rapport à la version précédente ?
+67- Qu’est-ce que ECMAScript 2015 ?
+	ECMAScript est un ensemble de normes concernant les langages de programmation de type script et standardisées par Ecma International dans le cadre de la spécification ECMA-262. (wikipédia)
+
+68- Quelles nouveautés par rapport à la version précédente ?
 
 - Quelles différences avec ES 6 ?
 
