@@ -217,24 +217,31 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	ECMAScript est un ensemble de normes concernant les langages de programmation de type script et standardisées par Ecma International dans le cadre de la spécification ECMA-262. (wikipédia)
 
 68- Quelles nouveautés par rapport à la version précédente ?
+	
 
-- Quelles différences avec ES 6 ?
+69- Quelles différences avec ES 6 ?
+	
 
-- Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+70- Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+	http://www.arca-computing.fr/application-mobile-natif-ou-cross-plateforme-app-ou-web-app-thats-the-question/
 
-- Qu’est-ce que xkcd ?
+71- Qu’est-ce que xkcd ?
+	
 
-- Qu’est-ce que Mr Robot ?
+72- Qu’est-ce que Mr Robot ?
+	
 
-- Qu’est-ce que OpQuast ?
+73- Qu’est-ce que OpQuast ?
+	
 
-- Quelles sont les communautés de dev de St-Go?
+74- Quelles sont les communautés de dev de St-Go?
+	
 
-- Quels sont les prochains événements tech sur St-Go?
+75- Quels sont les prochains événements tech sur St-Go?
+	
 
-- Quelles sont les différences entre un client web et un serveur web ?
+76- Quelles sont les différences entre un client web et un serveur web ?
+	
 
-- Donnez 3 exemples de chaque
-
-
-
+77- Donnez 3 exemples de chaque
+	
