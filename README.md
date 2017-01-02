@@ -121,7 +121,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	car on arrive a la fin du nombre de possibilitées pour l'ip v4. (wikipédia)
 
 37- Combien coûte un serveur pour héberger mon site perso ?
-		certain hebergeur son gratuit avec des limites de poids comme webou.net (OpenClassrooms.com)
+	certain hebergeur son gratuit avec des limites de poids comme webou.net (OpenClassrooms.com)
 38- Qu’est-ce que le Cowboy coding ?
 	les cowboy coders, sont des developeur en solo ou en groupe qui font le code a leur maniere sans s'imposer de regles(http://wiki.c2.com/?CowboyCoder)
 
@@ -243,14 +243,14 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 76- Quelles sont les différences entre un client web et un serveur web ?
 	Caractéristiques d'un processus serveur :
 
-		il attend une connexion entrante sur un ou plusieurs ports réseaux locaux  ;
-		à la connexion d'un client sur le port en écoute, il ouvre un socket local au système d'exploitation;
-		à la suite de la connexion, le processus serveur communique avec le client suivant le protocole prévu par la couche application du modèle OSI.
+	il attend une connexion entrante sur un ou plusieurs ports réseaux locaux  ;
+	à la connexion d'un client sur le port en écoute, il ouvre un socket local au système d'exploitation;
+	à la suite de la connexion, le processus serveur communique avec le client suivant le protocole prévu par la couche application du modèle OSI.
 		
 	Caractéristiques d'un processus client :
 
-		il établit la connexion au serveur à destination d'un ou plusieurs ports réseaux ;
-		lorsque la connexion est acceptée par le serveur, il communique comme le prévoit la couche applicative du modèle OSI.
+	il établit la connexion au serveur à destination d'un ou plusieurs ports réseaux ;
+	lorsque la connexion est acceptée par le serveur, il communique comme le prévoit la couche applicative du modèle OSI.
 	
 	(wikipédia)
 	
