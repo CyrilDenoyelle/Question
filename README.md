@@ -206,9 +206,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 - 2, 5, 12, 25, 512
 	2, 5, C, 19, 200.
 
-- Convertissez du binaire vers le système “classique” (base 10)
+65- Convertissez du binaire vers le système “classique” (base 10)
 - 100, 1011, 11111, 11110110101
-
+	4, 11, 31, 1973.
 - Quelles sont les nouveautés apportées par le HTML 5 ?
 
 - Qu’est-ce que ECMAScript 2015 ?
