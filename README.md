@@ -124,8 +124,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 		certain hebergeur son gratuit avec des limites de poids comme webou.net (OpenClassrooms.com)
 38- Qu’est-ce que le Cowboy coding ?
 	les cowboy coders, sont des developeur en solo ou en groupe qui font le code a leur maniere sans s'imposer de regles(http://wiki.c2.com/?CowboyCoder)
-	
-- Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+
+39- Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+	d'après (http://www.developpez.com/actu/101905/Meilleurs-langages-de-programmation-en-2016-decouvrez-les-langages-en-forte-croissance-et-les-plus-demandes-par-les-employeurs-selon-l-IEEE/) les languages les plus utilisés sont le C, java, Python, C++, R, C#, PHP, javascript, ruby et Go. 
 
 - Quelles sont les différences entre un software open-source et un software free ?
 
