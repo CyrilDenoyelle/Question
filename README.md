@@ -180,7 +180,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 56- Qu’est-ce qu’Amazon Web Services 
 - AWS ?
 	C'est une plateforme de services de cloud sécurisée, qui met notamment à disposition de la puissance de calcul et des fonctionnalités de stockage de base de données et de livraison de contenus pour aider les entreprises à grandir et à monter en échelle. (aws.amazone.com)
-- Qui est Sundar Pichai ?
+57- Qui est Sundar Pichai ?
+	Pichai Sundararajan est un dirigeant d'entreprise indo-américain, président-directeur général de Google. (wikipédia)
 
 - Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 
