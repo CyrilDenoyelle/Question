@@ -198,11 +198,13 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 62- Qui sont Larry Page et Sergey Brin ?
 	cofondateurs de la société Google.
 
-- Convertissez en binaire
+63- Convertissez en binaire
 - 2, 5, 12, 25, 512
+	10, 101, 1100, 11001, 1000000000.
 
 - Convertissez en hexadécimal
 - 2, 5, 12, 25, 512
+
 
 - Convertissez du binaire vers le système “classique” (base 10)
 - 100, 1011, 11111, 11110110101
