@@ -117,10 +117,10 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 35- Qu'est-ce qu'une adresse IP v4 ?
 	C'est la première version d'Internet Protocol à avoir été largement déployée
 
-- Pourquoi parle-t-on aussi d'adresse IP v6 ?
-
+36- Pourquoi parle-t-on aussi d'adresse IP v6 ?
+	car on arrive a la fin du nombre de possibilitées pour l'ip v4. (wikipédia)
 - Combien coûte un serveur pour héberger mon site perso ?
-
+	
 - Qu’est-ce que le Cowboy coding ?
 
 - Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
