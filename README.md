@@ -232,7 +232,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	Une super série sur un groupe de hackers qui casse tout. (moi)
 
 73- Qu’est-ce que OpQuast ?
-	
+	"Les bonnes pratiques par et pour les pros du Web", c’est un réseau de 15 agences et 16 écoles (http://opquast.com/fr)
 
 74- Quelles sont les communautés de dev de St-Go?
 	
