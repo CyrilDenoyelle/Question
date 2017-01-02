@@ -119,8 +119,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 
 36- Pourquoi parle-t-on aussi d'adresse IP v6 ?
 	car on arrive a la fin du nombre de possibilitées pour l'ip v4. (wikipédia)
-- Combien coûte un serveur pour héberger mon site perso ?
-	
+
+37- Combien coûte un serveur pour héberger mon site perso ?
+		certain hebergeur son gratuit avec des limites de poids comme webou.net (OpenClassrooms.com)
 - Qu’est-ce que le Cowboy coding ?
 
 - Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
