@@ -144,6 +144,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	World Wide Web Consortium (W3C)
 
 45- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+	Chaque minute, 400h de vidéos sont uploadées sur Youtube ! (http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques#gref)
 
 - Que sont les White Hat et les Black Hat ?
 
