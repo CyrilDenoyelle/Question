@@ -163,13 +163,15 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	https://www.indeed.fr/Emplois-Developpeur-Web-Junior
 
 51- Qui est Tim Berners-Lee ?
-	il est le principal inventeur du World Wide Web en 1990. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé. (Wikipédia)
+	Il est le principal inventeur du World Wide Web en 1990. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé. (Wikipédia)
 
-- Comment sont reliés les différents réseaux d'internet ?
+52- Comment sont reliés les différents réseaux d'internet ?
+	
 
-- Qu’est-ce que KISS ?
+53- Qu’est-ce que KISS ?
+	Keep it simple stupid, le principe KISS, est une ligne directrice de conception qui préconise la simplicité dans la conception et que toute complexité non indispensable devrait être évitée dans toute la mesure du possible. (wikipédia)
 
-- Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+54- Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 
 - En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 
