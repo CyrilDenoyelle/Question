@@ -192,7 +192,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 60- Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 	Chaque seconde ce sont près de 39.000 recherches qui sont faites sur le moteur de recherche Google soit au moins 60 foi plus par minutes (planetoscope.com)
 
-- Qu’est-ce que les joies du code ?
+61- Qu’est-ce que les joies du code ?
+	c'est "linstant GIF des développeurs" ce site (http://lesjoiesducode.fr/)
 
 - Qui sont Larry Page et Sergey Brin ?
 
