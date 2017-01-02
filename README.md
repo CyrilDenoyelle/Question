@@ -183,9 +183,11 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 57- Qui est Sundar Pichai ?
 	Pichai Sundararajan est un dirigeant d'entreprise indo-américain, président-directeur général de Google. (wikipédia)
 
-- Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+58- Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+	
 
-- Qu'est-ce qu'une Cheatsheet ?
+59- Qu'est-ce qu'une Cheatsheet ?
+	traduit feuille de triche, c'est une feuille de mémo pour plus ou moins tout faire en developement
 
 - Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 
