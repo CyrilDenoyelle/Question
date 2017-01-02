@@ -174,8 +174,9 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 54- Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 	il est toujours utile au cas ou mais n'est jamais indispensable si on fait attention a ce qu'on fait. (tout plein plein de sources)
 
-- En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
-
+55- En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+	plusieurs cycles de 25 minutes de travail suivi de 5 minutes de pose puis une pose plus longue, les avantages sont l'amélioration de l'éfficassité de travail.
+	
 - Qu’est-ce qu’Amazon Web Services 
 - AWS ?
 
