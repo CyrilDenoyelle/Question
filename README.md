@@ -140,9 +140,10 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 43- Qui est Phil Zimmermann ?
 	créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde. (wikipédia)
 
-- Qu’est-ce que le W3C ?
+44- Qu’est-ce que le W3C ?
+	World Wide Web Consortium (W3C)
 
-- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+45- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 
 - Que sont les White Hat et les Black Hat ?
 
