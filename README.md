@@ -156,10 +156,11 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 48- Quelles est l'adresse MAC de votre ordinateur ?
 	0E-84-DC-86-D6-78
 
-48- Et de votre smartphone ?
+49- Et de votre smartphone ?
 	pas de smartphone
 
-- Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+50- Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+	https://www.indeed.fr/Emplois-Developpeur-Web-Junior
 
 - Qui est Tim Berners-Lee ?
 
