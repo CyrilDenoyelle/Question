@@ -172,6 +172,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	Keep it simple stupid, le principe KISS, est une ligne directrice de conception qui préconise la simplicité dans la conception et que toute complexité non indispensable devrait être évitée dans toute la mesure du possible. (wikipédia)
 
 54- Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+	il est toujours utile au cas ou mais n'est jamais indispensable si on fait attention a ce qu'on fait. (tout plein plein de sources)
 
 - En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 
