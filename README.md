@@ -229,7 +229,7 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 	A webcomic of romance, sarcasm, math, and language. (http://xkcd.com/)
 
 72- Qu’est-ce que Mr Robot ?
-	
+	Une super série sur un groupe de hackers qui casse tout. (moi)
 
 73- Qu’est-ce que OpQuast ?
 	
