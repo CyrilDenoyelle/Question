@@ -128,7 +128,8 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 39- Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
 	d'après (http://www.developpez.com/actu/101905/Meilleurs-langages-de-programmation-en-2016-decouvrez-les-langages-en-forte-croissance-et-les-plus-demandes-par-les-employeurs-selon-l-IEEE/) les languages les plus utilisés sont le C, java, Python, C++, R, C#, PHP, javascript, ruby et Go. 
 
-- Quelles sont les différences entre un software open-source et un software free ?
+40- Quelles sont les différences entre un software open-source et un software free ?
+	 L'open source est une méthodologie de développement ; le logiciel libre est un mouvement de société. (https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 
 - Trouvez trois entreprises qui développent des solutions Free & OpenSource
 
