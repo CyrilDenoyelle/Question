@@ -176,10 +176,10 @@ L’adaptation au changement plus que le suivi d’un plan			(http://agilemanife
 
 55- En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 	plusieurs cycles de 25 minutes de travail suivi de 5 minutes de pose puis une pose plus longue, les avantages sont l'amélioration de l'éfficassité de travail.
-	
-- Qu’est-ce qu’Amazon Web Services 
-- AWS ?
 
+56- Qu’est-ce qu’Amazon Web Services 
+- AWS ?
+	C'est une plateforme de services de cloud sécurisée, qui met notamment à disposition de la puissance de calcul et des fonctionnalités de stockage de base de données et de livraison de contenus pour aider les entreprises à grandir et à monter en échelle. (aws.amazone.com)
 - Qui est Sundar Pichai ?
 
 - Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
